@@ -5,7 +5,7 @@ Hi, I'm Nayandeep! 💜👋
 A creative full-stack developer based in India 🌊  
 2024 CSE Graduate 🎓 | Currently exploring **Next.js** & **TypeScript** 👩‍💻  
 📧 Email: [nayandeepsen@gmail.com](mailto:nayandeepsen@gmail.com)  
-🌐 Portfolio: [nayandeepsen.com](https://nayandeepsen.com){:target="_blank"}  
+🌐 Portfolio: <a href="https://nayandeepsen.com" target="_blank" rel="noopener noreferrer">nayandeepsen.com</a>
 
 ---
 
