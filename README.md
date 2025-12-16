@@ -1,15 +1,12 @@
-![girl-under-the-stars](https://github.com/user-attachments/assets/f7c90e8e-fc81-4206-8b4f-f576e896200f)
-
 ## About Me
 
 Hi, I’m Nayandeep.  
-I’m a Java backend developer based in India with a strong foundation in computer science and a keen interest in building reliable, scalable systems.
+Based in India, I’m a Java backend developer with a strong foundation in computer science and a focus on building reliable, scalable systems.
 
-I’m a 2024 Computer Science graduate, focused on backend development using Java and related technologies. I enjoy writing clean code, understanding how systems work under the hood, and continuously improving my engineering skills.
+I primarily work with Spring Boot and related backend technologies. I enjoy writing clean code, understanding how systems work under the hood, and continuously improving my skills.
 
 Email: [nayandeepsen@gmail.com](mailto:nayandeepsen@gmail.com)  
 Portfolio: [nayandeepsen.com](https://nayandeepsen.com)
-
 
 ---
 
